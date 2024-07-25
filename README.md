@@ -1,6 +1,7 @@
 # ATM-Transaction-Analysis
 
-![1](https://github.com/user-attachments/assets/7974ab2e-07d0-4b46-ba17-01102f70dfa2)
+![Screenshot 2024-07-25 161308](https://github.com/user-attachments/assets/225618ac-1ee8-4d8f-ade2-061f149857e9)
+
 
 ### Data Columns and Descriptions
 
