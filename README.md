@@ -1,5 +1,7 @@
 # ATM-Transaction-Analysis
 
+![1](https://github.com/user-attachments/assets/7974ab2e-07d0-4b46-ba17-01102f70dfa2)
+
 ### Data Columns and Descriptions
 
 1. **Month** (`Month`)
