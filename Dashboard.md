@@ -4,7 +4,8 @@ This Power BI dashboard provides a comprehensive overview of ATM transactions, c
 
 ## Dashboard Overview
 
-![ATm dash](https://github.com/thedeveloperyt/ATM-Dashboard/assets/169817243/bfcf323f-225d-4fa3-80c9-284b408e33c9)
+![Screenshot 2024-07-25 134453](https://github.com/user-attachments/assets/40753ca3-e34a-42e0-8070-894d5160675a)
+
 
 ### Cost Analysis (ATM Cost and Maintenance)
 
